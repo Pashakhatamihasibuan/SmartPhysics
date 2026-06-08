@@ -1,0 +1,17 @@
+{
+  "name": "smartphysics",
+  "version": "1.0.0",
+  "description": "SmartPhysics — Interactive Multimedia Learning System (Hukum Newton)",
+  "private": true,
+  "scripts": {
+    "install:all":  "cd frontend && npm install && cd ../backend && npm install",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend":  "cd backend && npm run dev",
+    "seed":         "cd backend && node scripts/seed.js",
+    "start:backend":"cd backend && npm start",
+    "build":        "cd frontend && npm run build"
+  },
+  "keywords": ["physics", "react", "mongodb", "education", "framer-motion"],
+  "author": "SmartPhysics Developer",
+  "license": "MIT"
+}

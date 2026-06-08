@@ -252,6 +252,7 @@ Content-Type: application/json
 
 **Pasha Khatami Hasibuan**  
 Mahasiswa Pendidikan Teknik Elektronika dan Informatika
+
 Mata Kuliah:Sistem Multimedia  
 Tahun Akademik: 2026
 
